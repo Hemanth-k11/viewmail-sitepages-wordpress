@@ -1,0 +1,17 @@
+/*
+Theme Name: Viewmail Sitepages
+Theme URI: https://viewmail.sitepages.in/
+Description: Child theme of Hello Elementor for viewmail.sitepages.in. Every page, the header and the footer are built with Elementor, so texts, prices, pictures and buttons can be changed by drag and drop. After activating, open Appearance > Viewmail Setup and click "Install plugins and build the site".
+Author: Sitepages
+Author URI: https://sitepages.in/
+Template: hello-elementor
+Version: 1.0.0
+Requires at least: 6.4
+Tested up to: 7.1
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: viewmail
+*/
+
+/* All styles live in assets/css/site.css. */
